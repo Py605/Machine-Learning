@@ -1,2 +1,3 @@
  Case 1: Predicting the values of Subject 6 with the help of (Subjects 1 to 5) <br>
-Case 2 : 
+Case 2: Transfering one student from class A to B, and then predict his/her marks <br>
+Case 3: Reducing the no. of Teachers to half and then again predict marks... 
